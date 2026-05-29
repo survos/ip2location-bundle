@@ -24,7 +24,7 @@
         "symfony/twig-bundle": "^7.3||^8.0",
         "symfony/var-dumper": "^7.3||^8.0",
         "symfony/cache-contracts": "^3.4",
-        "survos/step-bundle": "^2.0"
+        "survos/step-bundle": "^2.5"
     },
     "autoload": {
         "psr-4": {
